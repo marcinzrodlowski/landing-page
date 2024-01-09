@@ -135,7 +135,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -228,7 +228,7 @@ body {
     margin: 20px 0; } }
 
 .header {
-  background-image: url("../images/photos/main-image.jpg");
+  background-image: url("../../src/images/photos/main-image.jpg");
   background-size: cover;
   background-position: center;
   min-height: 86rem;
@@ -267,11 +267,11 @@ body {
   visibility: hidden; }
 
 .header__icon--burger::before {
-  content: url("../images/icon-burger-menu.svg");
+  content: url("../../src/images/icon-burger-menu.svg");
   visibility: visible; }
 
 .header__icon--burger:hover::before {
-  content: url("../images/icon-burger-menu-hover.svg"); }
+  content: url("../../src/images/icon-burger-menu-hover.svg"); }
 
 .hero__text {
   color: #fff;
@@ -402,7 +402,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -675,7 +675,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -942,7 +942,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -1246,7 +1246,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -1507,7 +1507,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -1824,7 +1824,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
@@ -1917,7 +1917,7 @@ body {
     margin: 20px 0; } }
 
 .footer__image {
-  background-image: url("../images/photos/exhibition-manequins.jpg");
+  background-image: url("../../src/images/photos/exhibition-manequins.jpg");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -2043,7 +2043,7 @@ body {
     grid-template-columns: 1fr 1fr;
     column-gap: 20px; }
     .exhibition__gallery--top-image-1 {
-      background-image: url("../images/photos/paintings-small.jpg");
+      background-image: url("../../src/images/photos/paintings-small.jpg");
       width: 130px;
       height: 130px;
       background-size: contain;
